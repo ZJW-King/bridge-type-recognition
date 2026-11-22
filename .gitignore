@@ -1,0 +1,105 @@
+# ============================================================
+# Python standard ignores
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ============================================================
+# Virtual Environments
+# ============================================================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ============================================================
+# PyTorch & Deep Learning specific
+# ============================================================
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.engine
+
+# TensorBoard / WandB logs
+runs/
+logs/
+wandb/
+lightning_logs/
+
+# ============================================================
+# Project specific generated outputs
+# ============================================================
+# Bridge classification test results
+test_results/
+training_curves.png
+*.csv
+*.txt
+
+# AutoCAD and Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.bak
+
+# ============================================================
+# Data directories (to avoid uploading large datasets)
+# ============================================================
+# If you have large datasets, uncomment the lines below
+# data/
+# *.jpg
+# *.png
+
+# ============================================================
+# IDE and OS files
+# ============================================================
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
