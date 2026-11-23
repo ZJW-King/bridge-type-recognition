@@ -40,12 +40,10 @@ data/
 
 The training set is automatically split **90 / 10** into train and validation subsets.
 <img width="1096" height="710" alt="image" src="https://github.com/user-attachments/assets/5a116bc4-ea38-452f-a574-585569c72dd9" />
-
-<img width="1101" height="799" alt="image" src="https://github.com/user-attachments/assets/b89a026e-71fb-48eb-bcbd-b29c42219c6f" />
+<img width="1091" height="722" alt="image" src="https://github.com/user-attachments/assets/bb1cf51a-9427-40cf-b228-719a78e3eafd" />
 <img width="1098" height="723" alt="image" src="https://github.com/user-attachments/assets/d88c8dd0-953b-429e-85f2-93be5222532b" />
-
 <img width="1101" height="816" alt="image" src="https://github.com/user-attachments/assets/964803b7-e089-46dd-bd61-1d13681d88fa" />
-<img width="1106" height="724" alt="image" src="https://github.com/user-attachments/assets/3e1a54aa-84c4-410b-97d3-e55a930b7231" />
+<img width="1087" height="718" alt="image" src="https://github.com/user-attachments/assets/6a35d228-f858-4283-8a16-e379c12faed4" />
 
 ## 🔧 Data Preprocessing
 
